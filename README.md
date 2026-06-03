@@ -1,5 +1,3 @@
-# sirket-veri-raporu
-CSV dosyasından çalışan verisi okuyup analiz raporu üreten Python scripti.
 # Şirket Çalışan Veri Raporu
 
 CSV formatındaki çalışan verisini okuyup analiz eden ve formatlı bir rapor 

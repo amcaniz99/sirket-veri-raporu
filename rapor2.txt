@@ -1,0 +1,24 @@
+ === SIRKET RAPORU ===
+Toplam Calisan : 12
+Toplam Maas: 257000 TL
+Ortalama Maas: 21416.67 TL
+Ortalama Yas: 33.67
+Ortalama Performans: 7.89
+Ortalama Calisma Yili: 6.92
+ --- Maas Uclari ---
+En Yuksek Maas: Emre Polat - 32000 TL
+En Dusuk Maas: Deniz Aydın - 14000 TL
+ --- Performans Uclari ---
+En Yuksek Performans: Emre Polat - 9.3
+En Dusuk Performans: Burak Doğan - 6.5
+ --- Departman Dagilimi ---
+Yazılım: 5 kişi
+Pazarlama: 3 kişi
+Finans: 4 kişi
+--- Sehir Filtreleri ---
+İstanbul'daki Çalışanlar (5):
+- Ahmet Yılmaz (28, Yazılım)
+- Fatma Şahin (29, Finans)
+- Zeynep Arslan (38, Pazarlama)
+- Emre Polat (45, Finans)
+- Pınar Yıldız (30, Finans)

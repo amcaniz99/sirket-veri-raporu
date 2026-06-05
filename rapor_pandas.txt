@@ -1,0 +1,42 @@
+=== ŞİRKET RAPORU ===
+
+--- Genel İstatistikler ---
+           maas     yas  performans  calisma_yili
+sum   257000.00  404.00       94.70         83.00
+mean   21416.67   33.67        7.89          6.92
+
+Toplam Çalışan: 12
+
+--- Maaş Uçları ---
+En Yüksek: Emre Polat - 32000 TL
+En Düşük: Deniz Aydın - 14000 TL
+
+--- Performans Uçları ---
+En Yüksek: Emre Polat - 9.3
+En Düşük: Burak Doğan - 6.5
+
+--- Departman Dağılımı ---
+departman
+Finans       4
+Pazarlama    3
+Yazılım      5
+
+--- Departman Bazında Ortalama Maaş ---
+departman
+Finans       24000.00
+Pazarlama    25333.33
+Yazılım      17000.00
+
+--- Şehir Bazında Ortalama Maaş ---
+sehir
+Ankara      21500.0
+İstanbul    24600.0
+İzmir       16000.0
+
+--- İstanbul Çalışanları (5) ---
+             isim  yas  departman
+0    Ahmet Yılmaz   28    Yazılım
+3     Fatma Şahin   29     Finans
+5   Zeynep Arslan   38  Pazarlama
+8      Emre Polat   45     Finans
+11   Pınar Yıldız   30     Finans

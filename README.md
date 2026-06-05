@@ -30,6 +30,21 @@ dosyası üreten Python scripti.
 
 ## Dosyalar
 
-- `calisan_raporu.ipynb` — Ana Python kodu
+### Saf Python versiyonu
+- `sirketraporu.ipynb` — Saf Python ile yazılmış kod
+- `rapor2.txt` — Üretilen rapor
+
+### Pandas versiyonu
+- `sirketraporu_pandas.ipynb` — Pandas ile yazılmış kod (daha kısa, daha güçlü)
+- `rapor_pandas.txt` — Üretilen rapor (groupby + agg analizleri dahil)
+
+### Ortak
 - `sirket.csv` — Örnek çalışan verisi (12 kayıt)
-- `rapor2.txt` — Üretilen rapor (örnek çıktı)
+
+## Notlar
+
+Bu projede aynı analiz iki farklı yaklaşımla yazıldı:
+- **Saf Python**: Standart kütüphaneler, döngüler, sözlükler kullanılarak (~80 satır)
+- **Pandas**: `pd.read_csv`, `groupby`, `agg` gibi pandas araçlarıyla (~20 satır)
+
+İkinci versiyon hem daha kısa, hem de departman/şehir bazında çapraz analizler içeriyor.

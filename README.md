@@ -35,7 +35,7 @@ dosyası üreten Python scripti.
 - `rapor2.txt` — Üretilen rapor
 
 ### Pandas versiyonu
-- `sirketraporu_pandas.ipynb` — Pandas ile yazılmış kod (daha kısa, daha güçlü)
+- `sirket_raporu_pandas.ipynb` — Pandas ile yazılmış kod (daha kısa, daha güçlü)
 - `rapor_pandas.txt` — Üretilen rapor (groupby + agg analizleri dahil)
 
 ### Ortak
